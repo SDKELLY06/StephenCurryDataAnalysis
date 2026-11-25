@@ -1,6 +1,6 @@
 # Stephen Curry Data Analysis & Model Project 2026
 
-To create this dataset, Basketball Reference was used to retrieve statistics of games played by Stephen Curry from 2010, to 2026. This dataset was created in excel and contains 1,000 rows, with 10 input variables before cleansing. It contains both numerical and categorical values and links can be found in the notebook. 
+To create this dataset, Basketball Reference was used to retrieve statistics of games played by Stephen Curry from 2010, to 2026. This dataset was created in excel and contains 1,400 rows, with 10 input variables before cleansing. It contains both numerical and categorical values and links can be found in the notebook. 
 
 The objective of this project for our models to predict if Stephen Curry can score more than 24.8 points against certain teams in the future, based on his career against each team.
 
